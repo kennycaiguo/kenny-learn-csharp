@@ -1,0 +1,7 @@
+F:\Projects_f\dotnet-projs\custom-event-demo\bin\Debug\custom-event-demo.exe.config
+F:\Projects_f\dotnet-projs\custom-event-demo\bin\Debug\custom-event-demo.exe
+F:\Projects_f\dotnet-projs\custom-event-demo\bin\Debug\custom-event-demo.pdb
+F:\Projects_f\dotnet-projs\custom-event-demo\obj\Debug\custom-event-demo.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\custom-event-demo\obj\Debug\custom-event-demo.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\custom-event-demo\obj\Debug\custom-event-demo.exe
+F:\Projects_f\dotnet-projs\custom-event-demo\obj\Debug\custom-event-demo.pdb

@@ -1,0 +1,7 @@
+F:\Projects_f\dotnet-projs\LinQ-custom-join\bin\Debug\LinQ-custom-join.exe.config
+F:\Projects_f\dotnet-projs\LinQ-custom-join\bin\Debug\LinQ-custom-join.exe
+F:\Projects_f\dotnet-projs\LinQ-custom-join\bin\Debug\LinQ-custom-join.pdb
+F:\Projects_f\dotnet-projs\LinQ-custom-join\obj\Debug\LinQ-custom-join.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\LinQ-custom-join\obj\Debug\LinQ-custom-join.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\LinQ-custom-join\obj\Debug\LinQ-custom-join.exe
+F:\Projects_f\dotnet-projs\LinQ-custom-join\obj\Debug\LinQ-custom-join.pdb
