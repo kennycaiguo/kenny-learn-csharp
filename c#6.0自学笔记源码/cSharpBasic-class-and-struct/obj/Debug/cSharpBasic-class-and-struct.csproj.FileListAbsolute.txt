@@ -1,0 +1,7 @@
+F:\Projects_f\dotnet-projs\cSharpBasic-class-and-struct\bin\Debug\cSharpBasic-class-and-struct.exe.config
+F:\Projects_f\dotnet-projs\cSharpBasic-class-and-struct\bin\Debug\cSharpBasic-class-and-struct.exe
+F:\Projects_f\dotnet-projs\cSharpBasic-class-and-struct\bin\Debug\cSharpBasic-class-and-struct.pdb
+F:\Projects_f\dotnet-projs\cSharpBasic-class-and-struct\obj\Debug\cSharpBasic-class-and-struct.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\cSharpBasic-class-and-struct\obj\Debug\cSharpBasic-class-and-struct.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\cSharpBasic-class-and-struct\obj\Debug\cSharpBasic-class-and-struct.exe
+F:\Projects_f\dotnet-projs\cSharpBasic-class-and-struct\obj\Debug\cSharpBasic-class-and-struct.pdb

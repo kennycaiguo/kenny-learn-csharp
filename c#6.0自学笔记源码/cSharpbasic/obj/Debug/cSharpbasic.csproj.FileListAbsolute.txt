@@ -1,0 +1,7 @@
+F:\Projects_f\dotnet-projs\cSharpbasic\obj\Debug\cSharpbasic.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\cSharpbasic\obj\Debug\cSharpbasic.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\cSharpbasic\bin\Debug\cSharpbasic.exe.config
+F:\Projects_f\dotnet-projs\cSharpbasic\bin\Debug\cSharpbasic.exe
+F:\Projects_f\dotnet-projs\cSharpbasic\bin\Debug\cSharpbasic.pdb
+F:\Projects_f\dotnet-projs\cSharpbasic\obj\Debug\cSharpbasic.exe
+F:\Projects_f\dotnet-projs\cSharpbasic\obj\Debug\cSharpbasic.pdb

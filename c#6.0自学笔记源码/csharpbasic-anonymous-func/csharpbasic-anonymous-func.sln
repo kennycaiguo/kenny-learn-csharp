@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharpbasic-anonymous-func", "csharpbasic-anonymous-func.csproj", "{75602131-4F74-403B-A47C-D9A45E84F38B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75602131-4F74-403B-A47C-D9A45E84F38B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75602131-4F74-403B-A47C-D9A45E84F38B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75602131-4F74-403B-A47C-D9A45E84F38B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75602131-4F74-403B-A47C-D9A45E84F38B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF8F5663-0612-4E26-A7D1-6AB029932AAB}
+	EndGlobalSection
+EndGlobal

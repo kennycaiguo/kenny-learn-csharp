@@ -1,0 +1,7 @@
+F:\Projects_f\dotnet-projs\csharpbasic-anonymous-func\bin\Debug\csharpbasic-anonymous-func.exe.config
+F:\Projects_f\dotnet-projs\csharpbasic-anonymous-func\bin\Debug\csharpbasic-anonymous-func.exe
+F:\Projects_f\dotnet-projs\csharpbasic-anonymous-func\bin\Debug\csharpbasic-anonymous-func.pdb
+F:\Projects_f\dotnet-projs\csharpbasic-anonymous-func\obj\Debug\csharpbasic-anonymous-func.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\csharpbasic-anonymous-func\obj\Debug\csharpbasic-anonymous-func.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\csharpbasic-anonymous-func\obj\Debug\csharpbasic-anonymous-func.exe
+F:\Projects_f\dotnet-projs\csharpbasic-anonymous-func\obj\Debug\csharpbasic-anonymous-func.pdb
