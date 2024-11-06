@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\csharpbasic-file-and-reg\bin\Debug\csharpbasic-file-and-reg.exe.config
+C:\Users\Administrator\source\repos\csharpbasic-file-and-reg\bin\Debug\csharpbasic-file-and-reg.exe
+C:\Users\Administrator\source\repos\csharpbasic-file-and-reg\bin\Debug\csharpbasic-file-and-reg.pdb
+C:\Users\Administrator\source\repos\csharpbasic-file-and-reg\obj\Debug\csharpbasic-file-and-reg.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\csharpbasic-file-and-reg\obj\Debug\csharpbasic-file-and-reg.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\csharpbasic-file-and-reg\obj\Debug\csharpbasic-file-and-reg.exe
+C:\Users\Administrator\source\repos\csharpbasic-file-and-reg\obj\Debug\csharpbasic-file-and-reg.pdb

@@ -1,0 +1,7 @@
+F:\Projects_f\dotnet-projs\CsharpBasic-nullable-type\bin\Debug\CsharpBasic-nullable-type.exe.config
+F:\Projects_f\dotnet-projs\CsharpBasic-nullable-type\bin\Debug\CsharpBasic-nullable-type.exe
+F:\Projects_f\dotnet-projs\CsharpBasic-nullable-type\bin\Debug\CsharpBasic-nullable-type.pdb
+F:\Projects_f\dotnet-projs\CsharpBasic-nullable-type\obj\Debug\CsharpBasic-nullable-type.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\CsharpBasic-nullable-type\obj\Debug\CsharpBasic-nullable-type.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\CsharpBasic-nullable-type\obj\Debug\CsharpBasic-nullable-type.exe
+F:\Projects_f\dotnet-projs\CsharpBasic-nullable-type\obj\Debug\CsharpBasic-nullable-type.pdb

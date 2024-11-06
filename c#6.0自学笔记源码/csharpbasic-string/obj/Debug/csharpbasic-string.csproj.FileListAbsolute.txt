@@ -1,0 +1,7 @@
+F:\Projects_f\dotnet-projs\csharpbasic-string\bin\Debug\csharpbasic-string.exe.config
+F:\Projects_f\dotnet-projs\csharpbasic-string\bin\Debug\csharpbasic-string.exe
+F:\Projects_f\dotnet-projs\csharpbasic-string\bin\Debug\csharpbasic-string.pdb
+F:\Projects_f\dotnet-projs\csharpbasic-string\obj\Debug\csharpbasic-string.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\csharpbasic-string\obj\Debug\csharpbasic-string.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\csharpbasic-string\obj\Debug\csharpbasic-string.exe
+F:\Projects_f\dotnet-projs\csharpbasic-string\obj\Debug\csharpbasic-string.pdb

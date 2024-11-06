@@ -1,0 +1,7 @@
+F:\Projects_f\dotnet-projs\csharp-file-and-reg\c#registrydemo\bin\Debug\c#registrydemo.exe.config
+F:\Projects_f\dotnet-projs\csharp-file-and-reg\c#registrydemo\bin\Debug\c#registrydemo.exe
+F:\Projects_f\dotnet-projs\csharp-file-and-reg\c#registrydemo\bin\Debug\c#registrydemo.pdb
+F:\Projects_f\dotnet-projs\csharp-file-and-reg\c#registrydemo\obj\Debug\c#registrydemo.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\csharp-file-and-reg\c#registrydemo\obj\Debug\c#registrydemo.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\csharp-file-and-reg\c#registrydemo\obj\Debug\c#registrydemo.exe
+F:\Projects_f\dotnet-projs\csharp-file-and-reg\c#registrydemo\obj\Debug\c#registrydemo.pdb

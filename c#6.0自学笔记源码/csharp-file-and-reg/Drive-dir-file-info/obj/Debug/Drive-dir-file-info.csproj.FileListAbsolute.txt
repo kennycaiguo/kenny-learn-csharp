@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Drive-dir-file-info\bin\Debug\Drive-dir-file-info.exe.config
+C:\Users\Administrator\source\repos\Drive-dir-file-info\bin\Debug\Drive-dir-file-info.exe
+C:\Users\Administrator\source\repos\Drive-dir-file-info\bin\Debug\Drive-dir-file-info.pdb
+C:\Users\Administrator\source\repos\Drive-dir-file-info\obj\Debug\Drive-dir-file-info.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Drive-dir-file-info\obj\Debug\Drive-dir-file-info.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Drive-dir-file-info\obj\Debug\Drive-dir-file-info.exe
+C:\Users\Administrator\source\repos\Drive-dir-file-info\obj\Debug\Drive-dir-file-info.pdb
+F:\Projects_f\dotnet-projs\csharp-file-and-reg\Drive-dir-file-info\bin\Debug\Drive-dir-file-info.exe.config
+F:\Projects_f\dotnet-projs\csharp-file-and-reg\Drive-dir-file-info\bin\Debug\Drive-dir-file-info.exe
+F:\Projects_f\dotnet-projs\csharp-file-and-reg\Drive-dir-file-info\bin\Debug\Drive-dir-file-info.pdb
+F:\Projects_f\dotnet-projs\csharp-file-and-reg\Drive-dir-file-info\obj\Debug\Drive-dir-file-info.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\csharp-file-and-reg\Drive-dir-file-info\obj\Debug\Drive-dir-file-info.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\csharp-file-and-reg\Drive-dir-file-info\obj\Debug\Drive-dir-file-info.exe
+F:\Projects_f\dotnet-projs\csharp-file-and-reg\Drive-dir-file-info\obj\Debug\Drive-dir-file-info.pdb
