@@ -1,0 +1,7 @@
+F:\Projects_f\dotnet-projs\csharpbasic-interopService-demo\bin\Debug\csharpbasic-interopService-demo.exe.config
+F:\Projects_f\dotnet-projs\csharpbasic-interopService-demo\bin\Debug\csharpbasic-interopService-demo.exe
+F:\Projects_f\dotnet-projs\csharpbasic-interopService-demo\bin\Debug\csharpbasic-interopService-demo.pdb
+F:\Projects_f\dotnet-projs\csharpbasic-interopService-demo\obj\Debug\csharpbasic-interopService-demo.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\csharpbasic-interopService-demo\obj\Debug\csharpbasic-interopService-demo.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\csharpbasic-interopService-demo\obj\Debug\csharpbasic-interopService-demo.exe
+F:\Projects_f\dotnet-projs\csharpbasic-interopService-demo\obj\Debug\csharpbasic-interopService-demo.pdb

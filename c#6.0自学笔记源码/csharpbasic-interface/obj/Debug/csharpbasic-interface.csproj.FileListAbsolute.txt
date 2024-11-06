@@ -1,0 +1,7 @@
+F:\Projects_f\dotnet-projs\csharpbasic-interface\bin\Debug\csharpbasic-interface.exe.config
+F:\Projects_f\dotnet-projs\csharpbasic-interface\bin\Debug\csharpbasic-interface.exe
+F:\Projects_f\dotnet-projs\csharpbasic-interface\bin\Debug\csharpbasic-interface.pdb
+F:\Projects_f\dotnet-projs\csharpbasic-interface\obj\Debug\csharpbasic-interface.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\csharpbasic-interface\obj\Debug\csharpbasic-interface.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\csharpbasic-interface\obj\Debug\csharpbasic-interface.exe
+F:\Projects_f\dotnet-projs\csharpbasic-interface\obj\Debug\csharpbasic-interface.pdb
