@@ -1,0 +1,7 @@
+F:\Projects_f\dotnet-projs\csharpbasic-generic-method\bin\Debug\csharpbasic-generic-method.exe.config
+F:\Projects_f\dotnet-projs\csharpbasic-generic-method\bin\Debug\csharpbasic-generic-method.exe
+F:\Projects_f\dotnet-projs\csharpbasic-generic-method\bin\Debug\csharpbasic-generic-method.pdb
+F:\Projects_f\dotnet-projs\csharpbasic-generic-method\obj\Debug\csharpbasic-generic-method.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\csharpbasic-generic-method\obj\Debug\csharpbasic-generic-method.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\csharpbasic-generic-method\obj\Debug\csharpbasic-generic-method.exe
+F:\Projects_f\dotnet-projs\csharpbasic-generic-method\obj\Debug\csharpbasic-generic-method.pdb

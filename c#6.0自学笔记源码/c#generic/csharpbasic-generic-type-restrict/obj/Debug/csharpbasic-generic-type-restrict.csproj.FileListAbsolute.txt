@@ -1,0 +1,7 @@
+F:\Projects_f\dotnet-projs\csharpbasic-generic-type-restrict\bin\Debug\csharpbasic-generic-type-restrict.exe.config
+F:\Projects_f\dotnet-projs\csharpbasic-generic-type-restrict\bin\Debug\csharpbasic-generic-type-restrict.exe
+F:\Projects_f\dotnet-projs\csharpbasic-generic-type-restrict\bin\Debug\csharpbasic-generic-type-restrict.pdb
+F:\Projects_f\dotnet-projs\csharpbasic-generic-type-restrict\obj\Debug\csharpbasic-generic-type-restrict.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\csharpbasic-generic-type-restrict\obj\Debug\csharpbasic-generic-type-restrict.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\csharpbasic-generic-type-restrict\obj\Debug\csharpbasic-generic-type-restrict.exe
+F:\Projects_f\dotnet-projs\csharpbasic-generic-type-restrict\obj\Debug\csharpbasic-generic-type-restrict.pdb
