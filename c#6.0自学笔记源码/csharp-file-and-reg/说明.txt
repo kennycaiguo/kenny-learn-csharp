@@ -1,0 +1,1 @@
+解决方案文件在F:\Projects_f\dotnet-projs\csharp-file-and-reg\csharpbasic-file-and-reg文件夹里面,已经包含了这给文件夹里面的所有项目

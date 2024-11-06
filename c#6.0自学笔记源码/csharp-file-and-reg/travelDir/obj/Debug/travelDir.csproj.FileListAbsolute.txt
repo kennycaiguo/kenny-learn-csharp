@@ -1,0 +1,7 @@
+F:\Projects_f\dotnet-projs\csharp-file-and-reg\travelDir\bin\Debug\travelDir.exe.config
+F:\Projects_f\dotnet-projs\csharp-file-and-reg\travelDir\bin\Debug\travelDir.exe
+F:\Projects_f\dotnet-projs\csharp-file-and-reg\travelDir\bin\Debug\travelDir.pdb
+F:\Projects_f\dotnet-projs\csharp-file-and-reg\travelDir\obj\Debug\travelDir.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\csharp-file-and-reg\travelDir\obj\Debug\travelDir.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\csharp-file-and-reg\travelDir\obj\Debug\travelDir.exe
+F:\Projects_f\dotnet-projs\csharp-file-and-reg\travelDir\obj\Debug\travelDir.pdb
