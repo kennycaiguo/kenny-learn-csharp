@@ -1,0 +1,7 @@
+F:\Projects_f\dotnet-projs\csharp-basic-event-demo\bin\Debug\csharp-basic-event-demo.exe.config
+F:\Projects_f\dotnet-projs\csharp-basic-event-demo\bin\Debug\csharp-basic-event-demo.exe
+F:\Projects_f\dotnet-projs\csharp-basic-event-demo\bin\Debug\csharp-basic-event-demo.pdb
+F:\Projects_f\dotnet-projs\csharp-basic-event-demo\obj\Debug\csharp-basic-event-demo.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\csharp-basic-event-demo\obj\Debug\csharp-basic-event-demo.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\csharp-basic-event-demo\obj\Debug\csharp-basic-event-demo.exe
+F:\Projects_f\dotnet-projs\csharp-basic-event-demo\obj\Debug\csharp-basic-event-demo.pdb

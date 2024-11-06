@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\csharpbasic-indexer\bin\Debug\csharpbasic-indexer.exe.config
+C:\Users\Administrator\source\repos\csharpbasic-indexer\bin\Debug\csharpbasic-indexer.exe
+C:\Users\Administrator\source\repos\csharpbasic-indexer\bin\Debug\csharpbasic-indexer.pdb
+C:\Users\Administrator\source\repos\csharpbasic-indexer\obj\Debug\csharpbasic-indexer.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\csharpbasic-indexer\obj\Debug\csharpbasic-indexer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\csharpbasic-indexer\obj\Debug\csharpbasic-indexer.exe
+C:\Users\Administrator\source\repos\csharpbasic-indexer\obj\Debug\csharpbasic-indexer.pdb

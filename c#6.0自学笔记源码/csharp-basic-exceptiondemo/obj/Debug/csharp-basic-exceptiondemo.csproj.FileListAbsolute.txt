@@ -1,0 +1,7 @@
+F:\Projects_f\dotnet-projs\csharp-basic-exceptiondemo\bin\Debug\csharp-basic-exceptiondemo.exe.config
+F:\Projects_f\dotnet-projs\csharp-basic-exceptiondemo\bin\Debug\csharp-basic-exceptiondemo.exe
+F:\Projects_f\dotnet-projs\csharp-basic-exceptiondemo\bin\Debug\csharp-basic-exceptiondemo.pdb
+F:\Projects_f\dotnet-projs\csharp-basic-exceptiondemo\obj\Debug\csharp-basic-exceptiondemo.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\csharp-basic-exceptiondemo\obj\Debug\csharp-basic-exceptiondemo.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\csharp-basic-exceptiondemo\obj\Debug\csharp-basic-exceptiondemo.exe
+F:\Projects_f\dotnet-projs\csharp-basic-exceptiondemo\obj\Debug\csharp-basic-exceptiondemo.pdb
