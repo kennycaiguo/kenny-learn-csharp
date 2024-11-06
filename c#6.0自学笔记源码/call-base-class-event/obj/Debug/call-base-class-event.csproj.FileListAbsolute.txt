@@ -1,0 +1,7 @@
+F:\Projects_f\dotnet-projs\call-base-class-event\bin\Debug\call-base-class-event.exe.config
+F:\Projects_f\dotnet-projs\call-base-class-event\bin\Debug\call-base-class-event.exe
+F:\Projects_f\dotnet-projs\call-base-class-event\bin\Debug\call-base-class-event.pdb
+F:\Projects_f\dotnet-projs\call-base-class-event\obj\Debug\call-base-class-event.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\call-base-class-event\obj\Debug\call-base-class-event.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\call-base-class-event\obj\Debug\call-base-class-event.exe
+F:\Projects_f\dotnet-projs\call-base-class-event\obj\Debug\call-base-class-event.pdb
