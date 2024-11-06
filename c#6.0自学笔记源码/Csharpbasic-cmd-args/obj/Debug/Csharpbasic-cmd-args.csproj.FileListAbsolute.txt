@@ -1,0 +1,7 @@
+F:\Projects_f\dotnet-projs\Csharpbasic-cmd-args\bin\Debug\Csharpbasic-cmd-args.exe.config
+F:\Projects_f\dotnet-projs\Csharpbasic-cmd-args\bin\Debug\Csharpbasic-cmd-args.exe
+F:\Projects_f\dotnet-projs\Csharpbasic-cmd-args\bin\Debug\Csharpbasic-cmd-args.pdb
+F:\Projects_f\dotnet-projs\Csharpbasic-cmd-args\obj\Debug\Csharpbasic-cmd-args.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\Csharpbasic-cmd-args\obj\Debug\Csharpbasic-cmd-args.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\Csharpbasic-cmd-args\obj\Debug\Csharpbasic-cmd-args.exe
+F:\Projects_f\dotnet-projs\Csharpbasic-cmd-args\obj\Debug\Csharpbasic-cmd-args.pdb

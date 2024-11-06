@@ -1,0 +1,7 @@
+F:\Projects_f\dotnet-projs\cSharpBasic-delegate\bin\Debug\cSharpBasic-delegate.exe.config
+F:\Projects_f\dotnet-projs\cSharpBasic-delegate\bin\Debug\cSharpBasic-delegate.exe
+F:\Projects_f\dotnet-projs\cSharpBasic-delegate\bin\Debug\cSharpBasic-delegate.pdb
+F:\Projects_f\dotnet-projs\cSharpBasic-delegate\obj\Debug\cSharpBasic-delegate.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\cSharpBasic-delegate\obj\Debug\cSharpBasic-delegate.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\cSharpBasic-delegate\obj\Debug\cSharpBasic-delegate.exe
+F:\Projects_f\dotnet-projs\cSharpBasic-delegate\obj\Debug\cSharpBasic-delegate.pdb
