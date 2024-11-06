@@ -1,0 +1,7 @@
+F:\Projects_f\dotnet-projs\LinQ-orderby\bin\Debug\LinQ-orderby.exe.config
+F:\Projects_f\dotnet-projs\LinQ-orderby\bin\Debug\LinQ-orderby.exe
+F:\Projects_f\dotnet-projs\LinQ-orderby\bin\Debug\LinQ-orderby.pdb
+F:\Projects_f\dotnet-projs\LinQ-orderby\obj\Debug\LinQ-orderby.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\LinQ-orderby\obj\Debug\LinQ-orderby.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\LinQ-orderby\obj\Debug\LinQ-orderby.exe
+F:\Projects_f\dotnet-projs\LinQ-orderby\obj\Debug\LinQ-orderby.pdb
