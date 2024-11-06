@@ -1,0 +1,8 @@
+F:\Projects_f\dotnet-projs\c#interopWorddemo\bin\Debug\c#interopWorddemo.exe.config
+F:\Projects_f\dotnet-projs\c#interopWorddemo\bin\Debug\c#interopWorddemo.exe
+F:\Projects_f\dotnet-projs\c#interopWorddemo\bin\Debug\c#interopWorddemo.pdb
+F:\Projects_f\dotnet-projs\c#interopWorddemo\obj\Debug\c#interopWorddemo.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\c#interopWorddemo\obj\Debug\c#interopWorddemo.csproj.ResolveComReference.cache
+F:\Projects_f\dotnet-projs\c#interopWorddemo\obj\Debug\c#interopWorddemo.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\c#interopWorddemo\obj\Debug\c#interopWorddemo.exe
+F:\Projects_f\dotnet-projs\c#interopWorddemo\obj\Debug\c#interopWorddemo.pdb
