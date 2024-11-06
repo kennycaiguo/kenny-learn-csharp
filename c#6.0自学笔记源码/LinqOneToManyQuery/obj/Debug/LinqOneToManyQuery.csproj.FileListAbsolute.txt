@@ -1,0 +1,7 @@
+F:\Projects_f\dotnet-projs\LinqOneToManyQuery\bin\Debug\LinqOneToManyQuery.exe.config
+F:\Projects_f\dotnet-projs\LinqOneToManyQuery\bin\Debug\LinqOneToManyQuery.exe
+F:\Projects_f\dotnet-projs\LinqOneToManyQuery\bin\Debug\LinqOneToManyQuery.pdb
+F:\Projects_f\dotnet-projs\LinqOneToManyQuery\obj\Debug\LinqOneToManyQuery.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\LinqOneToManyQuery\obj\Debug\LinqOneToManyQuery.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\LinqOneToManyQuery\obj\Debug\LinqOneToManyQuery.exe
+F:\Projects_f\dotnet-projs\LinqOneToManyQuery\obj\Debug\LinqOneToManyQuery.pdb

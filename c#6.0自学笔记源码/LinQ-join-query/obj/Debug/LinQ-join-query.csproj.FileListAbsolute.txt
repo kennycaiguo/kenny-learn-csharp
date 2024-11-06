@@ -1,0 +1,7 @@
+F:\Projects_f\dotnet-projs\LinQ-join-query\bin\Debug\LinQ-join-query.exe.config
+F:\Projects_f\dotnet-projs\LinQ-join-query\bin\Debug\LinQ-join-query.exe
+F:\Projects_f\dotnet-projs\LinQ-join-query\bin\Debug\LinQ-join-query.pdb
+F:\Projects_f\dotnet-projs\LinQ-join-query\obj\Debug\LinQ-join-query.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\LinQ-join-query\obj\Debug\LinQ-join-query.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\LinQ-join-query\obj\Debug\LinQ-join-query.exe
+F:\Projects_f\dotnet-projs\LinQ-join-query\obj\Debug\LinQ-join-query.pdb

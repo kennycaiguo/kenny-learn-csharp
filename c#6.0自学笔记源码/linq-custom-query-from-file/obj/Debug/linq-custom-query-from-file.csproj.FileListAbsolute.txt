@@ -1,0 +1,7 @@
+F:\Projects_f\dotnet-projs\linq-custom-query-from-file\bin\Debug\linq-custom-query-from-file.exe.config
+F:\Projects_f\dotnet-projs\linq-custom-query-from-file\bin\Debug\linq-custom-query-from-file.exe
+F:\Projects_f\dotnet-projs\linq-custom-query-from-file\bin\Debug\linq-custom-query-from-file.pdb
+F:\Projects_f\dotnet-projs\linq-custom-query-from-file\obj\Debug\linq-custom-query-from-file.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\linq-custom-query-from-file\obj\Debug\linq-custom-query-from-file.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\linq-custom-query-from-file\obj\Debug\linq-custom-query-from-file.exe
+F:\Projects_f\dotnet-projs\linq-custom-query-from-file\obj\Debug\linq-custom-query-from-file.pdb

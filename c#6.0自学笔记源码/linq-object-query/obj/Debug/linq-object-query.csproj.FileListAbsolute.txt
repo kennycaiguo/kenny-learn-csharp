@@ -1,0 +1,7 @@
+F:\Projects_f\dotnet-projs\linq-object-query\bin\Debug\linq-object-query.exe.config
+F:\Projects_f\dotnet-projs\linq-object-query\bin\Debug\linq-object-query.exe
+F:\Projects_f\dotnet-projs\linq-object-query\bin\Debug\linq-object-query.pdb
+F:\Projects_f\dotnet-projs\linq-object-query\obj\Debug\linq-object-query.csproj.AssemblyReference.cache
+F:\Projects_f\dotnet-projs\linq-object-query\obj\Debug\linq-object-query.csproj.CoreCompileInputs.cache
+F:\Projects_f\dotnet-projs\linq-object-query\obj\Debug\linq-object-query.exe
+F:\Projects_f\dotnet-projs\linq-object-query\obj\Debug\linq-object-query.pdb
